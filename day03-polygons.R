@@ -1,7 +1,7 @@
 # -------------------------------------------------------------------------
 # 30 DAYS MAP CHALLENGE 2023
-# day02-polygons
-# title: Urban Area
+# day03-polygons
+# title: Urban Area in Japan
 # data: https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/50m/cultural/ne_50m_urban_areas.zip 
 # script by Ziyadatul Hikmah | 03 Nov 2023
 # -------------------------------------------------------------------------
