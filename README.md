@@ -1,3 +1,2 @@
-# 30daymapchallange2023
-Hallo, Guys!
-Ini adalah Repository untuk menyimpan hasil-hasil pemetaan yang saya kerjakan selama bulan November 2023, dalam rangka mengikuti #30daymapchallange. 
+#30daymapchallange2023
+Hello, Guys! This is a repository to store the mapping results that I worked on during the month of November 2023, in order to participate in the #30daymapchallange.
