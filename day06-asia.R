@@ -4,6 +4,7 @@
 # title: Topographic map of Philippines
 # data: the Open Topography Global Datasets, API <https://opentopography.org/developers/>, and 
 #       the USGS Elevation Point Query Service <https://apps.nationalmap.gov/epqs/>
+# credit: ©Milos Popovic for tutorial
 # script by Ziyadatul Hikmah | 06 Nov 2023
 # -------------------------------------------------------------------------
 
