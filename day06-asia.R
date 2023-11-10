@@ -113,5 +113,5 @@ ggsave(filename="day06-asia2.png",
        device='png',
        plot = phil_map)
 
-
+# done ! ------------------------------------------------------------------
 
