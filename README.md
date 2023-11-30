@@ -77,3 +77,17 @@ IPB University has a garden area of 169 ha in the Jonggol area, approximately 60
 The Jonggol Animal Husbandry Education and Research Unit (UP3J) of the Faculty of Animal Husbandry of IPB University began to be built in 1985 - 1991, through cooperation with the Australian Government, and its management was carried out by IPB and Australia. 
 
 In 1993, the management of UP3J was handed over to the Faculty of Animal Husbandry of IPB independently, through Rector Decree no. 020/Um/1993 dated March 15, 1993. (UP3J, which is also known as "Jonggol Animal Science Teaching and Research Unit (JASTRU)", is expected to be utilized and developed by the Faculty of Animal Husbandry both for the benefit of the Faculty of Animal Husbandry, other Faculties within IPB and the development of animal husbandry in Indonesia.
+
+### **DAY 06 - ASIA**
+
+Title: Topographic map of Philippines 
+
+Source data: the Open Topography Global Datasets, API <https://lnkd.in/gQaBUybB>, and the USGS Elevation Point Query Service <https://lnkd.in/gfs2UCFj>")
+
+Script: https://lnkd.in/gbeMSVES
+
+Tools: RStudio
+
+The Philippines is an archipelago located in Southeast Asia. Topographic conditions in the Philippines are quite diverse from low altitude to the highest point at Mount Apo at 3,776 meters above sea level. To describe the typical topographic conditions of the Philippines can use a topographic map. 
+
+A distinctive feature of topographic maps is the use of elevation contour lines to show the shape of the earth's surface. An elevation contour is an imaginary line connecting points that have the same elevation on the ground above or below a reference surface, which is usually sea level. Contours make it possible to show the height and shape of mountains, the depth of the ocean floor, and the steepness of slopes.
