@@ -45,6 +45,7 @@ Tokyo, now the capital of Japan, has been a metropolitan prefecture since 1943, 
 What about other cities?
 
 ### **DAY 04 - BAD MAP**
+![day04-bad-map](https://github.com/datoeltoel/30daymapchallange2023/assets/122730418/22b0e080-5e1a-45cc-bb93-511d6383b44a)
 
 Title: Land cover map in 1990 in the Upper Ciliwung watershed
 
