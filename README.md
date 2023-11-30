@@ -2,6 +2,7 @@
 Hello, Guys! This is a repository to store the mapping results that I worked on during November 2023, to participate in the #30daymapchallange.
 
 **DAY 01 - POINTS** 
+![day01-points](https://github.com/datoeltoel/30daymapchallange2023/assets/122730418/e7ccdd6b-48da-4750-bba4-48a4692520c5)
 
 Title: A history of nautical piracy in Indonesia
 
@@ -15,6 +16,7 @@ Indonesia has been known as a maritime country with its oceans covering 70% of i
 
 **DAY 02 - LINES** 
 ![day02-lines-min](https://github.com/datoeltoel/30daymapchallange2023/assets/122730418/8130343e-dcc5-4b65-9ddb-8a14863ff65e)
+
 Title: River basins in Australia
 
 Source data: © World Wildlife Fund, Inc. (2006-2013) HydroSHEDS database http://www.hydrosheds.org
