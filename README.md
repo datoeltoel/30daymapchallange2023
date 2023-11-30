@@ -43,3 +43,20 @@ Japan is one of the most developed countries in the world, which has advanced te
 Tokyo, now the capital of Japan, has been a metropolitan prefecture since 1943, with 23 special wards or cities within it. More than 8 million people live in Tokyo, but the total number of people in the city every day can reach 30 million. Sapporo, famous for its annual snow festival, is the fifth most densely populated city in Japan at 1.9 million people.
 
 What about other cities?
+
+### **DAY 04 - BAD MAP**
+
+Title: Land cover map in 1990 in the Upper Ciliwung watershed
+
+Source data: https://lnkd.in/g_VMnUvz
+
+Script: -
+
+Tools: ArcGIS 10.5
+
+This is one of the worst maps I ever made while studying at IPB University. Take a look, more than 20% of the land cover is clouds and cloud shadows. Even though the accuracy is very low, The overall accuracy is 50% with a kappa index of 0.37, which is included in the fair agreement category. 
+
+The low accuracy of the land cover classification results, apart from the fact that the satellite imagery which is the main data, is quite poor, there are lots of clouds, it is also because the cloud masking process was not carried out and also there is a lot of haze.
+
+This is a bad map enough, right?
+
