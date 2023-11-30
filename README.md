@@ -62,6 +62,8 @@ The low accuracy of the land cover classification results, apart from the fact t
 This is a bad map enough, right?
 
 ### **DAY 05 - ANALOG MAP**
+![day05-analog-map](https://github.com/datoeltoel/30daymapchallange2023/assets/122730418/1fe5ea1b-4491-4995-8cf7-fce1f6c04074)
+
 Title: Location Map of the Jonggol Livestock Education and Research Unit (UP3J) 
 
 Source data: -
