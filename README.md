@@ -1,7 +1,7 @@
 # 30 Day Maps Challange
 Hello, Guys! This is a repository to store the mapping results that I worked on during November 2023, to participate in the #30daymapchallange.
 
-**DAY 01 - POINTS** 
+### **DAY 01 - POINTS** 
 ![day01-points](https://github.com/datoeltoel/30daymapchallange2023/assets/122730418/e7ccdd6b-48da-4750-bba4-48a4692520c5)
 
 Title: A history of nautical piracy in Indonesia
@@ -14,7 +14,7 @@ Tools: RStudio
 
 Indonesia has been known as a maritime country with its oceans covering 70% of its entire territory. Therefore, many Indonesians depend on the sea for their livelihood. One of the groups that utilize the sea is pirates. Piracy in the archipelago's sea waters dates back to the Srivijaya Empire. Based on records from the National Geospatial-Intelligence Agency, a body that collects and stores records of incidents self-reported by victims of sea piracy for decades around the world, including Indonesia. For 34 years, from 1986 to 2020, Indonesian waters have experienced approximately 470 reported incidents of pirate assaults.
 
-**DAY 02 - LINES** 
+### **DAY 02 - LINES** 
 ![day02-lines-min](https://github.com/datoeltoel/30daymapchallange2023/assets/122730418/8130343e-dcc5-4b65-9ddb-8a14863ff65e)
 
 Title: River basins in Australia
