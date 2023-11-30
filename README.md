@@ -61,3 +61,17 @@ The low accuracy of the land cover classification results, apart from the fact t
 
 This is a bad map enough, right?
 
+### **DAY 05 - ANALOG MAP**
+Title: Location Map of the Jonggol Livestock Education and Research Unit (UP3J) 
+
+Source data: -
+
+Script: -
+
+Tools: Nikon 
+
+IPB University has a garden area of 169 ha in the Jonggol area, approximately 60 km from Bogor to the east. In connection with the development program of IPB University, since 1980 the garden area in Jonggol was developed as a means of supporting education, research, community service, and extension in the field of animal husbandry. 
+
+The Jonggol Animal Husbandry Education and Research Unit (UP3J) of the Faculty of Animal Husbandry of IPB University began to be built in 1985 - 1991, through cooperation with the Australian Government, and its management was carried out by IPB and Australia. 
+
+In 1993, the management of UP3J was handed over to the Faculty of Animal Husbandry of IPB independently, through Rector Decree no. 020/Um/1993 dated March 15, 1993. (UP3J, which is also known as "Jonggol Animal Science Teaching and Research Unit (JASTRU)", is expected to be utilized and developed by the Faculty of Animal Husbandry both for the benefit of the Faculty of Animal Husbandry, other Faculties within IPB and the development of animal husbandry in Indonesia.
