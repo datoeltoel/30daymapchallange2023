@@ -79,6 +79,7 @@ The Jonggol Animal Husbandry Education and Research Unit (UP3J) of the Faculty o
 In 1993, the management of UP3J was handed over to the Faculty of Animal Husbandry of IPB independently, through Rector Decree no. 020/Um/1993 dated March 15, 1993. (UP3J, which is also known as "Jonggol Animal Science Teaching and Research Unit (JASTRU)", is expected to be utilized and developed by the Faculty of Animal Husbandry both for the benefit of the Faculty of Animal Husbandry, other Faculties within IPB and the development of animal husbandry in Indonesia.
 
 ### **DAY 06 - ASIA**
+![day06-asia1](https://github.com/datoeltoel/30daymapchallange2023/assets/122730418/e1de3b70-1393-4f21-804b-f8a75cd16d59)
 
 Title: Topographic map of Philippines 
 
