@@ -28,6 +28,8 @@ Tools: RStudio
 Australia is the smallest continent in the world with an area of only 7,682,300 km2. Although Australia is the smallest continent in the world, its landscape has a variety of beauty from mountains, beaches, lakes, forests, and rivers. The Darling River is the longest in Australia. The length of this river reaches 2,700 km, flowing in the state of New South Wales.
 
 ### **DAY 03 - POLYGONS**
+![day03-polygons](https://github.com/datoeltoel/30daymapchallange2023/assets/122730418/82557c6f-cd9d-4c04-8a32-361a11283d5d)
+![day03-polygons1](https://github.com/datoeltoel/30daymapchallange2023/assets/122730418/9e1beea3-b715-4f07-9292-3d11a170d586)
 
 Title: Urban areas in Japan
 
