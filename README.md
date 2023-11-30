@@ -27,3 +27,18 @@ Tools: RStudio
 
 Australia is the smallest continent in the world with an area of only 7,682,300 km2. Although Australia is the smallest continent in the world, its landscape has a variety of beauty from mountains, beaches, lakes, forests, and rivers. The Darling River is the longest in Australia. The length of this river reaches 2,700 km, flowing in the state of New South Wales.
 
+### **DAY 03 - POLYGONS**
+
+Title: Urban areas in Japan
+
+Source data: https://lnkd.in/gh8wG8sn
+
+Script: https://lnkd.in/gvkkd4kT
+
+Tools: RStudio
+
+Japan is one of the most developed countries in the world, which has advanced technological development and urban development. Some cities in Japan have become favorite tourist destinations and workplaces that are targeted to be visited, namely Tokyo, Yokohama, Osaka, Nagoya, and Sapporo. Each of these cities has its character, both in terms of urban planning and the lifestyle of the people who live there.
+
+Tokyo, now the capital of Japan, has been a metropolitan prefecture since 1943, with 23 special wards or cities within it. More than 8 million people live in Tokyo, but the total number of people in the city every day can reach 30 million. Sapporo, famous for its annual snow festival, is the fifth most densely populated city in Japan at 1.9 million people.
+
+What about other cities?
