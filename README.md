@@ -91,4 +91,28 @@ Tools: RStudio
 
 The Philippines is an archipelago located in Southeast Asia. Topographic conditions in the Philippines are quite diverse from low altitude to the highest point at Mount Apo at 3,776 meters above sea level. To describe the typical topographic conditions of the Philippines can use a topographic map. 
 
+### **DAY 07 - NAVIGATION**
+Title: Distance from Supermarket in Bogor
+
+Source data: ©2018 Geofabrik GmbH and OpenStreetMap Contributors <https://lnkd.in/gWeZZ3ss>
+
+Script: - 
+
+Tools: ArcGIS & QGIS
+
+What is the distance to the supermarket in Bogor, West Java, Indonesia? I used the multiple ring buffer tool in ArcGIS with a distance range of 5, 10, and 15 kilometers from the supermarket to find out the estimated access range to the supermarket.
+
+Then, what about the travel time? I think it's difficult to estimate, because Bogor often experiences traffic jams, right?? 
+
+### **DAY 08 - AFRICA**
+Title: Habitat Distribution of Zebras in Africa
+Source data: The IUCN Red List of Threatened Species. Version 2022-2. <https://lnkd.in/gB2V7San>
+GitHub: -
+Tools: ArcGIS & Canva
+
+Zebras are African equines with distinctive black-and-white striped coats. There are three living species: the mountain zebra (E. zebra), Grévy's zebra (Equus grevyi), and the plains zebra (E. quagga).
+
+Zebras' dazzling stripes make them among the most recognizable mammals. They have been featured in art and stories in Africa and beyond. Historically, they have been highly sought after by exotic animal collectors, but unlike horses and donkeys, zebras have never been truly domesticated.
+
+
 A distinctive feature of topographic maps is the use of elevation contour lines to show the shape of the earth's surface. An elevation contour is an imaginary line connecting points that have the same elevation on the ground above or below a reference surface, which is usually sea level. Contours make it possible to show the height and shape of mountains, the depth of the ocean floor, and the steepness of slopes.
