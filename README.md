@@ -92,6 +92,8 @@ Tools: RStudio
 The Philippines is an archipelago located in Southeast Asia. Topographic conditions in the Philippines are quite diverse from low altitude to the highest point at Mount Apo at 3,776 meters above sea level. To describe the typical topographic conditions of the Philippines can use a topographic map. 
 
 ### **DAY 07 - NAVIGATION**
+![day07-navigation](https://github.com/datoeltoel/30daymapchallange2023/assets/122730418/3c6b259e-355e-4bc2-8422-c5e04ca69d07)
+
 Title: Distance from Supermarket in Bogor
 
 Source data: ©2018 Geofabrik GmbH and OpenStreetMap Contributors <https://lnkd.in/gWeZZ3ss>
@@ -105,9 +107,14 @@ What is the distance to the supermarket in Bogor, West Java, Indonesia? I used t
 Then, what about the travel time? I think it's difficult to estimate, because Bogor often experiences traffic jams, right?? 
 
 ### **DAY 08 - AFRICA**
+![day08-africa](https://github.com/datoeltoel/30daymapchallange2023/assets/122730418/5fa57fe4-631b-4466-bd71-c2c5a38e55fe)
+
 Title: Habitat Distribution of Zebras in Africa
+
 Source data: The IUCN Red List of Threatened Species. Version 2022-2. <https://lnkd.in/gB2V7San>
-GitHub: -
+
+Script: -
+
 Tools: ArcGIS & Canva
 
 Zebras are African equines with distinctive black-and-white striped coats. There are three living species: the mountain zebra (E. zebra), Grévy's zebra (Equus grevyi), and the plains zebra (E. quagga).
