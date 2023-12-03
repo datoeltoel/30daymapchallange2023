@@ -91,6 +91,8 @@ Tools: RStudio
 
 The Philippines is an archipelago located in Southeast Asia. Topographic conditions in the Philippines are quite diverse from low altitude to the highest point at Mount Apo at 3,776 meters above sea level. To describe the typical topographic conditions of the Philippines can use a topographic map. 
 
+A distinctive feature of topographic maps is the use of elevation contour lines to show the shape of the earth's surface. An elevation contour is an imaginary line connecting points that have the same elevation on the ground above or below a reference surface, which is usually sea level. Contours make it possible to show the height and shape of mountains, the depth of the ocean floor, and the steepness of slopes.
+
 ### **DAY 07 - NAVIGATION**
 ![day07-navigation](https://github.com/datoeltoel/30daymapchallange2023/assets/122730418/3c6b259e-355e-4bc2-8422-c5e04ca69d07)
 
@@ -120,6 +122,3 @@ Tools: ArcGIS & Canva
 Zebras are African equines with distinctive black-and-white striped coats. There are three living species: the mountain zebra (E. zebra), Grévy's zebra (Equus grevyi), and the plains zebra (E. quagga).
 
 Zebras' dazzling stripes make them among the most recognizable mammals. They have been featured in art and stories in Africa and beyond. Historically, they have been highly sought after by exotic animal collectors, but unlike horses and donkeys, zebras have never been truly domesticated.
-
-
-A distinctive feature of topographic maps is the use of elevation contour lines to show the shape of the earth's surface. An elevation contour is an imaginary line connecting points that have the same elevation on the ground above or below a reference surface, which is usually sea level. Contours make it possible to show the height and shape of mountains, the depth of the ocean floor, and the steepness of slopes.
