@@ -6,9 +6,9 @@ Hello, Guys! This is a repository to store the mapping results that I worked on 
 
 Title: A history of nautical piracy in Indonesia
 
-Source data: https://msi.nga.mil/Piracy 
+Source data: <https://msi.nga.mil/Piracy>
 
-Script: https://lnkd.in/g793FGnU
+Script: <https://lnkd.in/g793FGnU>
 
 Tools: RStudio
 
@@ -21,7 +21,7 @@ Title: River basins in Australia
 
 Source data: © World Wildlife Fund, Inc. (2006-2013) HydroSHEDS database http://www.hydrosheds.org
 
-Script: https://lnkd.in/dTBg2cAf
+Script: <https://lnkd.in/dTBg2cAf>
 
 Tools: RStudio
 
@@ -32,9 +32,9 @@ Australia is the smallest continent in the world with an area of only 7,682,300 
 
 Title: Urban areas in Japan
 
-Source data: https://lnkd.in/gh8wG8sn
+Source data: <https://lnkd.in/gh8wG8sn>
 
-Script: https://lnkd.in/gvkkd4kT
+Script: <https://lnkd.in/gvkkd4kT>
 
 Tools: RStudio
 
@@ -49,7 +49,7 @@ What about other cities?
 
 Title: Land cover map in 1990 in the Upper Ciliwung watershed
 
-Source data: https://lnkd.in/g_VMnUvz
+Source data: <https://lnkd.in/g_VMnUvz>
 
 Script: -
 
@@ -122,3 +122,15 @@ Tools: ArcGIS & Canva
 Zebras are African equines with distinctive black-and-white striped coats. There are three living species: the mountain zebra (E. zebra), Grévy's zebra (Equus grevyi), and the plains zebra (E. quagga).
 
 Zebras' dazzling stripes make them among the most recognizable mammals. They have been featured in art and stories in Africa and beyond. Historically, they have been highly sought after by exotic animal collectors, but unlike horses and donkeys, zebras have never been truly domesticated.
+
+### **DAY 09 - HEXAGONS**
+![day09-hexagons-indonesia](https://github.com/datoeltoel/30daymapchallange2023/assets/122730418/6a4b9dd9-0dc5-4f82-a885-b73996df3592)
+
+Title: CO2 Emissions for Indonesia in 2021
+
+Source data: <https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/EDGAR/datasets/v70_FT2021_GHG/CO2_excl_short-cycle_org_C/TOTALS/v7.0_FT2021_CO2_excl_short-cycle_org_C_2021_TOTALS.zip> 
+
+Script: 
+
+Tools: Rstudio
+
