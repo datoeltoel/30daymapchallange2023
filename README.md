@@ -128,7 +128,7 @@ Zebras' dazzling stripes make them among the most recognizable mammals. They hav
 
 Title: CO2 Emissions for Indonesia in 2021
 
-Source data: <https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/EDGAR/datasets/v70_FT2021_GHG/CO2_excl_short-cycle_org_C/TOTALS/v7.0_FT2021_CO2_excl_short-cycle_org_C_2021_TOTALS.zip> 
+Source data: ©1995-2023 European Union, <https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/EDGAR/datasets/v70_FT2021_GHG/CO2_excl_short-cycle_org_C/TOTALS/v7.0_FT2021_CO2_excl_short-cycle_org_C_2021_TOTALS.zip> 
 
 Script: 
 
