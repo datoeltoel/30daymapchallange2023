@@ -1,6 +1,16 @@
 # 30 Day Maps Challange
 Hello, Guys! This is a repository to store the mapping results that I worked on during November 2023, to participate in the #30daymapchallange.
 
+#30DayMapsChallange is a daily social mapping project that takes place every November. 
+
+The idea is to create maps based around different themes each day of November using the hashtag #30DayMapChallenge. You can prepare the maps beforehand, but the main idea is to publish maps on the dedicated days. Just include a picture of the map when you post to Twitter (or other platforms) with the hashtag. You don't have to sign up anywhere to participate. There are no restrictions on the tools, technologies or the data you use in your maps. Doing less than 30 is also fine. See the Code of Conduct.
+
+No matter if you are a GIS expert or never made a map before, everyone is welcome to participate. Keep in mind a few things:
+- All maps you publish have to be **your original work**. Don’t steal content from others.
+- Give **credit to the original data source** whenever possible.
+- The challenge is all about **creativity, openness and the joy of beautiful maps and cartography.** It is not a competition.
+- **Don’t be an asshole**
+
 ### **DAY 01 - POINTS** 
 ![day01-points](https://github.com/datoeltoel/30daymapchallange2023/assets/122730418/e7ccdd6b-48da-4750-bba4-48a4692520c5)
 
