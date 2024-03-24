@@ -11,6 +11,9 @@ No matter if you are a GIS expert or never made a map before, everyone is welcom
 - The challenge is all about **creativity, openness and the joy of beautiful maps and cartography.** It is not a competition.
 - **Don’t be an asshole**
 
+![30dmc-2023](https://github.com/datoeltoel/30daymapchallange2023/assets/122730418/305d66d9-8864-422d-a4ec-ad2ed94b8016)
+
+
 ### **DAY 01 - POINTS** 
 ![day01-points](https://github.com/datoeltoel/30daymapchallange2023/assets/122730418/e7ccdd6b-48da-4750-bba4-48a4692520c5)
 
