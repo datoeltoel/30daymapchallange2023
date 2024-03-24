@@ -134,3 +134,6 @@ Script: <https://github.com/datoeltoel/30daymapchallange2023/blob/main/day09-hex
 
 Tools: Rstudio
 
+Indonesia, like many other countries, faces challenges related to CO2 emissions mainly due to its reliance on fossil fuels, especially coal, for energy production and transportation. Factors such as industrial activities, deforestation, and agricultural practices also contribute to Indonesia's overall carbon footprint.
+
+Efforts to reduce CO2 emissions in Indonesia include initiatives to expand renewable energy sources such as solar, wind, and hydropower, as well as policies aimed at reducing deforestation and encouraging sustainable land use practices.
