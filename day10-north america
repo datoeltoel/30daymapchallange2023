@@ -1,0 +1,34 @@
+// GEE - CALCULATE NDVI IN MEXICO, NORTH AMERICA USING NICFI IMAGERY
+// Script by Ziyadatul Hikmah | 10-11-2023
+// ----------------------------------------------------------------------------------
+
+// Import nicfi sattelite imagery (id: projects/planet-nicfi/assets/basemaps/americas)
+// var nicfi = ee.ImageCollection('projects/planet-nicfi/assets/basemaps/americas');
+
+// Filter basemaps by date 
+var basemap = nicfi.filter(ee.Filter.date('2023-07-01','2023-07-31')).first();
+
+// Visualized basemap
+// var vis = {'bands':['R','G','B'],'min':64,'max':5454,'gamma':1.8};
+Map.centerObject(mexico, 5);
+Map.addLayer(basemap, vis, '2023 NICFI mosaic', false);
+
+// Calculate NDVI
+var ndvi = basemap.normalizedDifference(['N','R']).rename('NDVI');
+var ndvi_mexico = ndvi.clip(mexico);
+
+Map.addLayer(ndvi_mexico, {min:-0.55,max:0.8, 
+                    palette: ['8bc4f9', 'c9995c', 'c7d270',
+                              '8add60','097210']}, '2023 NDVI Mexico', true);
+
+// Export ndvi into Google Drive
+Export.image.toDrive({
+  image: ndvi_mexico, 
+  description: '2023-NDVI-Mexico', 
+  folder:'gee_output', 
+  region: mexico, 
+  scale: 4.77,
+  maxPixels: 344475292960
+});
+
+// Done !!! ------------
