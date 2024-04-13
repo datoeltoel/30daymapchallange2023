@@ -153,7 +153,9 @@ Efforts to reduce CO2 emissions in Indonesia include initiatives to expand renew
 
 ©2024 Ziyadatul Hikmah | Day 10 – North America
 
-**DAY 10 - NORTH AMERICA**
+### **DAY 10 - NORTH AMERICA**
+![1](https://github.com/datoeltoel/30daymapchallange2023/assets/122730418/01fb6047-c209-4be7-9d38-80d241342cac)
+![2](https://github.com/datoeltoel/30daymapchallange2023/assets/122730418/ff516d16-a4b5-4288-bef1-dab8bd4113cf)
 
 Title: Sentinel 2 Level 1C bands and combinations in Mexico, North America
 
@@ -179,8 +181,5 @@ This allows for the extraction of specific information from an image. For instan
 
 If you want to view Sentinel band combinations, you absolutely have to visit the Sentinel Playground (https://www.sentinel-hub.com/explore/sentinel-playground) ! It visualises the band combinations mentioned above, as well as several others.
 
-
-
-Let's see the results of combining bands and some spectral indices!
 
 
