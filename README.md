@@ -150,3 +150,37 @@ Tools: Rstudio
 Indonesia, like many other countries, faces challenges related to CO2 emissions mainly due to its reliance on fossil fuels, especially coal, for energy production and transportation. Factors such as industrial activities, deforestation, and agricultural practices also contribute to Indonesia's overall carbon footprint.
 
 Efforts to reduce CO2 emissions in Indonesia include initiatives to expand renewable energy sources such as solar, wind, and hydropower, as well as policies aimed at reducing deforestation and encouraging sustainable land use practices.
+
+©2024 Ziyadatul Hikmah | Day 10 – North America
+
+**DAY 10 - NORTH AMERICA**
+
+Title: Sentinel 2 Level 1C bands and combinations in Mexico, North America
+
+Source data: ©2015-2024 European Space Agency - ESA
+
+Script: https://code.earthengine.google.com/de0a62e5b74b7a7e5f96950230282b93
+
+Tools: Google Earth Engine, Canva
+
+
+
+Sentinel-2 (S2) is an incredible high-resolution, multispectral imaging mission with a global 5-day revisit frequency! The S2 Multispectral Instrument (MSI) samples an impressive 13 spectral bands, ranging from visible and NIR at 10 meters to red edge and SWIR at 20 meters, as well as atmospheric bands at 60 meters spatial resolution. Its data is perfect for assessing the state and changes in vegetation, soil, and water cover.
+
+
+
+By using band combinations, I am able to gain a deeper understanding of the features in the imagery! To rearrange the available channels in creative ways, I use band combinations!
+
+
+
+This allows for the extraction of specific information from an image. For instance, certain band combinations can highlight geologic, agricultural, or vegetation features in an image. 
+
+
+
+If you want to view Sentinel band combinations, you absolutely have to visit the Sentinel Playground (https://www.sentinel-hub.com/explore/sentinel-playground) ! It visualises the band combinations mentioned above, as well as several others.
+
+
+
+Let's see the results of combining bands and some spectral indices!
+
+
